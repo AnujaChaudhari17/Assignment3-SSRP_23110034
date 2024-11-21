@@ -22,4 +22,4 @@ In the Report "Report_23110034.docx" contains answer for Q5.
 
 #Report:
 In the zip folder "Report_23110034.docx" contains the plots and explanation for the code of each question.
-
+I have also uploaded the images of the plots in this file.
